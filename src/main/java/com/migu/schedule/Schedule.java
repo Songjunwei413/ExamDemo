@@ -14,6 +14,8 @@ public class Schedule {
 
     public int init() {
         // TODO 方法未实现
+        //宋军威
+        //GIT测试提交
         return ReturnCodeKeys.E000;
     }
 
